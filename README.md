@@ -1,11 +1,10 @@
-# `@antv/coord`
+# `@antv/geo-coord`
 
-> TODO: description
+> 地理坐标系
 
 ## Usage
 
 ```
-const coord = require('@antv/coord');
+import  { GeoCoordinates } from '@antv/coord';
 
-// TODO: DEMONSTRATE API
 ```

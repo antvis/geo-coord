@@ -1,8 +1,8 @@
 {
   "name": "@antv/geo-coord",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "> 地理坐标系",
-  "author": "李正学 <zhengxue.lzx@antfin.com>",
+  "author": "https://github.com/orgs/antvis/people",
   "homepage": "",
   "license": "ISC",
   "main": "lib/index.js",
@@ -14,11 +14,11 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/"
+    "access": "public"
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.alipay-inc.com:datavis/eva-engine.git"
+    "url": ""
   },
   "scripts": {
     "build": "rm -rf lib && tsc",
